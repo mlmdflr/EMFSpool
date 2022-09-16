@@ -1,5 +1,5 @@
 # EMFSpool
-C# support for .SHD and .SPL files on the windows platform
+C# support for .SHD and .SPL files on the win32
 
 # Learning Sources
 
