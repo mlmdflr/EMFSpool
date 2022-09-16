@@ -1,1 +1,1 @@
-# EMFSpoolfileReader
+# EMFSpool
