@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("EMFSpool")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("EMFSpoolfile to C#")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EMFSpoolfileReader")]
+[assembly: AssemblyProduct("EMFSpool")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
